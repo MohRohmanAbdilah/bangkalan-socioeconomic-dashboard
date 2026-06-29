@@ -29,5 +29,5 @@ The dashboard was built to explore socioeconomic trends before and during the CO
 BPS Kabupaten Bangkalan
 
 ## Project Files
-- `Bangkalan_Socioeconomic_Dashboard.pbix`
+- **Bangkalan_Socioeconomic_Dashboard.pbix:** [View Dashboard](Bangkalan_Socioeconomic_Dashboard.pbix)
 - `bangkalan_socioeconomic_data.xls`
