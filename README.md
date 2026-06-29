@@ -30,4 +30,4 @@ BPS Kabupaten Bangkalan
 
 ## Project Files
 - **Bangkalan_Socioeconomic_Dashboard.pbix:** [View Dashboard](Bangkalan_Socioeconomic_Dashboard.pbix)
-- `bangkalan_socioeconomic_data.xls`
+- **bangkalan_socioeconomic_data.xls:** [View Data](bangkalan_socioeconomic_data.xls)
